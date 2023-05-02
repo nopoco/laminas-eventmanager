@@ -1,5 +1,5 @@
 {
-    "name": "laminas/laminas-eventmanager",
+    "name": "nopoco/laminas-eventmanager",
     "description": "Trigger and listen to events within a PHP application",
     "license": "BSD-3-Clause",
     "keywords": [
